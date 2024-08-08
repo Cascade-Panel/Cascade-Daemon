@@ -1,6 +1,6 @@
 # LittleWings 🚀
 
-LittleWings is a web application designed to manage and interact with Docker containers via a WebSocket-based interface. This project leverages the Sanic web framework to handle HTTP and WebSocket requests, enabling real-time communication and control of Docker containers.
+DEPRECATED: LittleWings is a web application designed to manage and interact with Docker containers via a WebSocket-based interface. This project leverages the Sanic web framework to handle HTTP and WebSocket requests, enabling real-time communication and control of Docker containers.
 
 ## Features ✨
 
